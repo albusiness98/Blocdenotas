@@ -1,6 +1,6 @@
 <?php
 
-include_once("index.html");
+include_once("home.html");
 
 $ar=fopen("archivo.txt","a") or die ("Error al crear");
 
