@@ -1,5 +1,7 @@
 <?php
 
+include_once("index.html");
+
 $ar=fopen("archivo.txt","a") or die ("Error al crear");
 
 $asu=$_REQUEST['asunto'];
