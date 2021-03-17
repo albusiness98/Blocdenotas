@@ -6,7 +6,7 @@
 
 <body>
 
-<form action="index.php" method="post">
+<form action="" method="post">
 
 Asunto:<br><input type="text" name="asunto"><br><br>
 
