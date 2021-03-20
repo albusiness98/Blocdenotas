@@ -11,7 +11,7 @@
     <h1>Generador de Directorios y Archivos</h1>
     <?php
     
-    if (isset($_POST['generador']) == 'procesar'){
+    if (isset($_POST['generate']) == 'Aceptar'){
 
     // variables
     $folder = $_POST['directory'];
