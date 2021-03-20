@@ -26,8 +26,8 @@
 </table>
 <table border="1" align="center">
     <tr>
-       <td><input type="submit" class="btn" name="generate" value="procesar"></td>
-       <td><input type="reset" class="btn" name="clean" value="Limpiar"></td>
+       <td><input type="submit" class="btn" name="generate" value="Aceptar"></td>
+       <td><input type="reset" class="btn" name="clean" value="Borrar"></td>
     
     </tr>
 </table>
